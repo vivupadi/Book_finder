@@ -29,7 +29,7 @@ class BookFinderApp(QMainWindow):
         layout.addWidget(self.searchButton)
 
         self.resultsListWidget = QListWidget(self)
-        self.resultsListWidget.setMinimumSize(300,200)
+        self.resultsListWidget.setFixedSize(400,300)
         layout.addWidget(self.resultsListWidget)
 
         central_widget.setLayout(layout)
