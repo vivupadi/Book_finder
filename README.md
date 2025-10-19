@@ -3,6 +3,6 @@
 
 ## Tech stack
 
-
+## License
 
 ⭐ Star this repo if you find it helpful! Made with ❤️ by Vivek Padayattil
