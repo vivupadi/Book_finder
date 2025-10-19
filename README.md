@@ -1,5 +1,7 @@
 ## Windows Desktop-Based GUI to fetch Books details
+A GUI to search for the names of the books based on the user input text. Uses the the google Book API to return the names matching to the user entered query.
 
+![til](https://github.com/vivupadi/Book_finder/blob/main/sample.jpg)
 
 ## Tech stack
 
