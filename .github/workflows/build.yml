@@ -28,7 +28,7 @@ jobs:
       run: pyinstaller --name=BookFinder --onefile --windowed main.py
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: BookFinder
         path: dist/BookFinder.exe
