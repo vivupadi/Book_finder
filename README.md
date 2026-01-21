@@ -5,6 +5,10 @@ A GUI to search for the names of the books based on the User provided input text
 
 ## Tech stack
 
+- Backend: Python, Google API
+- Frontend: PyQT
+- Build: CI/CD (Github actions), PyInstaller
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
