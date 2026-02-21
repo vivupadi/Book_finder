@@ -7,7 +7,7 @@ A GUI to search for the names of the books based on the User provided input text
 
 - Backend: Python, Google API
 - Frontend: PyQT
-- Build: CI/CD (Github actions), PyInstaller
+- Build: CI/CD (Github actions), PyInstaller, Returns .EXE Desktop application
 
 ## 📄 License
 
